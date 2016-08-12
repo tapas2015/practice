@@ -1,0 +1,9 @@
+development site link: http://filmstack.com/aurora/
+http://filmstack.com/aurora/wp-admin
+Username:  Tyler
+Password:  xl55se11
+
+FTP Username: aurora@filmstack.com
+FTP Server: ftp.filmstack.com
+FTP & explicit FTPS port: 21
+Password: xl55se11
